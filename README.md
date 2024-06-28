@@ -39,7 +39,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/tanmay003MetricsMaestro/customer-churn-prediction.git
 cd customer-churn-prediction
 Install Dependencies:
 

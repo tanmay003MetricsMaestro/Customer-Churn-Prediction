@@ -12,18 +12,18 @@ Statistical Analysis
 Predictive Modeling
 Machine Learning (Logistic Regression, Random Forest)
 Data Visualization (PowerBI)
-Steps
-Data Cleaning and Preparation:
 
+Steps:-
+Data Cleaning and Preparation:
 Load the dataset and inspect for missing values.
 Handle missing values and clean the data.
 Convert categorical variables into numerical formats using encoding.
-Statistical Analysis:
 
+Statistical Analysis:
 Perform exploratory data analysis (EDA) to understand the data distribution and relationships.
 Visualize the data using histograms, box plots, and correlation matrices.
-Predictive Modeling:
 
+Predictive Modeling:
 Split the dataset into training and testing sets.
 Train machine learning models (Logistic Regression and Random Forest) to predict customer churn.
 Evaluate the models using accuracy, precision, recall, F1 score, and ROC AUC.

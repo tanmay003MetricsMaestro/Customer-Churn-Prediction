@@ -5,7 +5,8 @@ This project aims to develop a predictive model to identify customers who are li
 Dataset
 Dataset Used: Telco Customer Churn
 Source: Telco Customer Churn Dataset
-Skills Demonstrated
+
+Skills Demonstrated:-
 Data Cleaning and Preparation
 Statistical Analysis
 Predictive Modeling
